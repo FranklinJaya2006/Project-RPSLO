@@ -3,11 +3,8 @@
 [![Contributors][contributors-shield]](https://github.com/FranklinJaya2006/Project-RPSLO/graphs/contributors)
 
 [contributors-shield]: https://img.shields.io/github/contributors/FranklinJaya2006/Project-RPSLO.svg?style=for-the-badge
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/franklin-jaya-6a3697364/)]
 
 
 
