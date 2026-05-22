@@ -173,9 +173,9 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@fijinkah](https://www.instagram.com/franklinjaya_/) - franklinjaya827@gmail.com
+Your Name - [@franklinjaya_](https://www.instagram.com/franklinjaya_/) - franklinjaya827@gmail.com
 
-Project Link: [](https://github.com/your_username/repo_name)
+Project Link: [](h)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
