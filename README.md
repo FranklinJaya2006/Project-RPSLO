@@ -120,30 +120,58 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-**Linux / macOS**
+**Linux / macOS / Raspberry Pi**
 ```sh
 source venv/bin/activate
 ```
 
-5. Install dependencies
+5. Install required dependencies
 
 ```sh
-pip install -r requirements.txt
+pip install ultralytics opencv-python
 ```
 
-6. Install YOLOv8
+For Raspberry Pi GPIO support:
 
 ```sh
-pip install ultralytics
+pip install RPi.GPIO
 ```
+
+6. Download YOLOv8 model weights
+
+Example:
+
+```sh
+wget https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8s.pt
+```
+
+Or manually download the model from:
+
+- https://github.com/ultralytics/ultralytics
 
 7. Run the project
 
 ```sh
-python main.py
+python roda.py
 ```
 
 ---
+
+### Project Dependencies
+
+This project uses:
+
+- YOLOv8 for object detection
+- OpenCV for camera processing
+- RPi.GPIO for Raspberry Pi GPIO control
+
+Example imports used in the project:
+
+```python
+import cv2
+import RPi.GPIO as GPIO
+from ultralytics import YOLO
+```
 
 ### Verify YOLOv8 Installation
 
