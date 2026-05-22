@@ -1,6 +1,6 @@
 # Project-RPSLO
 
-[![Contributors][contributors-shield]][https://github.com/FranklinJaya2006/Project-RPSLO/graphs/contributors?from=2%2F21%2F2026]
+[![Contributors][contributors-shield]](https://github.com/FranklinJaya2006/Project-RPSLO/graphs/contributors?from=2%2F21%2F2026)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
