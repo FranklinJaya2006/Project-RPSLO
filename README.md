@@ -71,44 +71,87 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Follow these steps to set up the YOLOv8 project locally using Python virtual environment (`venv`).
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Make sure you have installed:
+
+- Python 3.10+
+- pip
+- Git
+
+Check your installation:
+
+```sh
+python --version
+pip --version
+git --version
+```
+
+---
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+1. Clone the repository
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+```sh
+git clone https://github.com/your_username/your_repository.git
+```
+
+2. Navigate to the project folder
+
+```sh
+cd your_repository
+```
+
+3. Create a virtual environment
+
+```sh
+python -m venv venv
+```
+
+4. Activate the virtual environment
+
+**Windows**
+```sh
+venv\Scripts\activate
+```
+
+**Linux / macOS**
+```sh
+source venv/bin/activate
+```
+
+5. Install dependencies
+
+```sh
+pip install -r requirements.txt
+```
+
+6. Install YOLOv8
+
+```sh
+pip install ultralytics
+```
+
+7. Run the project
+
+```sh
+python main.py
+```
+
+---
+
+### Verify YOLOv8 Installation
+
+```sh
+yolo version
+```
+
+If installed correctly, the YOLOv8 version information will appear.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
