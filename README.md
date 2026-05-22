@@ -1,6 +1,6 @@
 # Project-RPSLO
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][3]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
