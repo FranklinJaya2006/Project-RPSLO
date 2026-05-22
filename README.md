@@ -1,6 +1,8 @@
 # Project-RPSLO
 
-[![Contributors][contributors-shield]](https://github.com/FranklinJaya2006/Project-RPSLO/graphs/contributors?from=2%2F21%2F2026)
+[![Contributors][contributors-shield]](https://github.com/FranklinJaya2006/Project-RPSLO/graphs/contributors)
+
+[contributors-shield]: https://img.shields.io/github/contributors/FranklinJaya2006/Project-RPSLO.svg?style=for-the-badge
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
