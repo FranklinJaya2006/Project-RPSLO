@@ -202,11 +202,17 @@ Main features:
 - Real-time image processing using OpenCV
 
 System workflow:
-
+<p align="center">
+  <img src="flowchart.png" width="700">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
+For further development:
+<p align="center">
+  <img src="roadmap.png" width="700">
+</p>
 
 <!-- CONTACT -->
 ## Contact
