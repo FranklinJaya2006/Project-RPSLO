@@ -42,6 +42,9 @@
     <li>
       <a href="#contact">Contact</a>
     </li>
+    <li>
+      <a href="#Development-Team">Development Team</a>
+    </li>
   </ol>
 </details>
 
@@ -227,6 +230,14 @@ Your Name - [@franklinjaya_](https://www.instagram.com/franklinjaya_/) - frankli
 Project Link: [https://github.com/FranklinJaya2006/Project-RPSLO/tree/main](https://github.com/FranklinJaya2006/Project-RPSLO/tree/main)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Development Team
+
+Proyek ini dikembangkan oleh tim **Jobaile Development Team**, yang terdiri dari:
+
+1. **Apryadi Dwi Putra Tangalayuk**  
+2. **Franklin Jaya** 
+3. **Muh. Ryan Ardiansyah** 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
