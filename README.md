@@ -188,9 +188,21 @@ If installed correctly, the YOLOv8 version information will appear.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Project-RPSLO is an IoT-based autonomous garbage collection boat designed to help detect and collect floating waste in marine environments using computer vision technology.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+The system utilizes YOLOv8 object detection to identify trash objects in real time through a camera mounted on the boat. Detected waste data is then processed by the Raspberry Pi to support navigation and waste collection mechanisms.
+
+Main features:
+
+- Real-time trash detection using YOLOv8
+- Camera-based object recognition
+- Raspberry Pi GPIO control
+- Autonomous or semi-autonomous boat navigation
+- Floating waste monitoring system
+- Real-time image processing using OpenCV
+
+System workflow:
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
