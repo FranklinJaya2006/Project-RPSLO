@@ -53,22 +53,37 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+  <img src="images/boat-preview-1.png" width="250">
+  <img src="images/boat-preview-2.png" width="250">
+  <img src="images/boat-preview-3.png" width="250">
+</p>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Project-RPSLO is an IoT-based autonomous marine waste collection system designed to help reduce floating trash pollution in ocean and coastal environments.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+The project utilizes a webcam integrated with YOLOv8 artificial intelligence object detection technology to identify floating waste objects in real time. Detected objects are then processed by the system to support autonomous navigation and waste collection mechanisms on the boat.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people who have contributed to expanding this template!
+This system was developed to provide a smarter and more efficient solution for monitoring and collecting marine debris using computer vision and embedded system technology.
 
-Use the `BLANK_README.md` to get started.
+Main features include:
+
+- Real-time marine waste detection using YOLOv8
+- Webcam-based object recognition system
+- Autonomous or semi-autonomous boat navigation
+- Raspberry Pi integration
+- Real-time image processing using OpenCV
+- Floating waste monitoring system
+- AI-assisted environmental cleaning technology
+
+The detection system continuously captures visual data from the webcam, processes the image using YOLOv8, and identifies trash objects such as plastic waste or floating debris in water environments.
+
+This project also supports the United Nations Sustainable Development Goals (SDGs), especially:
+
+- SDG 14 — Life Below Water
+- SDG 11 — Sustainable Cities and Communities
+- SDG 13 — Climate Action
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
