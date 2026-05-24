@@ -211,7 +211,7 @@ Main features:
 
 System workflow:
 <p align="center">
-  <img src="flowchart.png" width="700">
+  <img src="flowchart.png" width="400">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
