@@ -54,9 +54,8 @@
 ## About The Project
 
 <p align="center">
-  <img src="images/boat-preview-1.png" width="250">
-  <img src="images/boat-preview-2.png" width="250">
-  <img src="images/boat-preview-3.png" width="250">
+  <img src="proto1.png" width="250">
+  <img src="proto2.png" width="250">
 </p>
 
 Project-RPSLO is an IoT-based autonomous marine waste collection system designed to help reduce floating trash pollution in ocean and coastal environments.
