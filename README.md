@@ -74,8 +74,13 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![YOLO][YOLO.org]][YOLO-url]
-* [![Python][Python.org]][Python-url]
+<a href="https://ultralytics.com/">
+  <img src="https://img.shields.io/badge/YOLO-Ultralytics-111111?style=for-the-badge" height="35">
+</a>
+
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35">
+</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,9 +230,7 @@ For further development:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@franklinjaya_](https://www.instagram.com/franklinjaya_/) - franklinjaya827@gmail.com
-
-Project Link: [https://github.com/FranklinJaya2006/Project-RPSLO/tree/main](https://github.com/FranklinJaya2006/Project-RPSLO/tree/main)
+Franklin Jaya - [@franklinjaya_](https://www.instagram.com/franklinjaya_/) - franklinjaya827@gmail.com - [Franklin_Github](https://github.com/FranklinJaya2006)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
