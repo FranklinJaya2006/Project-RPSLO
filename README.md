@@ -54,7 +54,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="proto1.png" width="300">
+  <img src="proto1.png" width="290">
   <img src="proto2.png" width="250">
 </p>
 
